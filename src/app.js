@@ -17,7 +17,7 @@ app.use(express.static("public")) // serve static files from static folder for p
 
 // last three app.use for configuration
 
-app.use(cookieParser()) // this are also configuration for cookie 
+app.use(cookieParser()) // this are also configuration for cookies 
 
 // const port = process.env.PORT || 8000
 
