@@ -10,7 +10,7 @@ const storage = multer.diskStorage({
     }
   })
 
-  //uthfrguigh
+  
   
 export const upload = multer({ 
     storage, 
